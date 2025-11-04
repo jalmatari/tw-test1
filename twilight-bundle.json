@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-test1",
+        "en": "tw-test1"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "jamal@salla.sa",
+    "support_url": "",
+    "repository": "https://github.com/jalmatari/tw-test1",
+    "components": []
+}
